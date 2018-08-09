@@ -2,9 +2,9 @@
 
 <h2 id="screenshots">Screenshots</h2>
 
-![Initial state](./img/1_result.jpg)
-![Detect error while typing](./img/2_result.jpg)
-![Stop timer when completed](./img/3_result.jpg)
+![Initial state](./img/1_result.png)
+![Detect error while typing](./img/2_result.png)
+![Stop timer when completed](./img/3_result.png)
 
 JavaScript training course by:
 * **[Morten Rand-Hendriksen](https://www.linkedin.com/in/mortenrandhendriksen/?trk=lil_course)**
