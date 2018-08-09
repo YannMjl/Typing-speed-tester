@@ -1,8 +1,10 @@
 # Typing-speed-tester
 
-![Initial state](./img/1.jpg)
-![Detect error while typing](./img/2.jpg)
-![Stop timer when completed](./img/1.jpg)
+<h2 id="screenshots">Screenshots</h2>
+
+![Initial state](./img/1_result.jpg)
+![Detect error while typing](./img/2_result.jpg)
+![Stop timer when completed](./img/3_result.jpg)
 
 JavaScript training course by:
 * **[Morten Rand-Hendriksen](https://www.linkedin.com/in/mortenrandhendriksen/?trk=lil_course)**
