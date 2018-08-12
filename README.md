@@ -1,6 +1,6 @@
 # Typing-speed-tester
 
-<h2 id="screenshots">Screenshots</h2>
+## ScreenShots
 
 ![Initial state](./img/1_result.png)
 ![Detect error while typing](./img/2_result.png)
@@ -15,4 +15,4 @@ JavaScript training course by:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE)© [Yann Mulonda](https://github.com/YannMjl) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE)© [Yann Mulonda](https://github.com/YannMjl) file for details.
