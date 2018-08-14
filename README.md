@@ -1,5 +1,7 @@
 # Typing-speed-tester
 
+Test how fast you can type and improve your typing speed.
+
 ## ScreenShots
 
 ![Initial state](./img/1_result.png)
