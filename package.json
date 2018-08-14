@@ -1,0 +1,19 @@
+{
+  "name": "typing-speed-tester",
+  "version": "1.0.0",
+  "description": "Test typing speed and help improve typing skill",
+  "main": "./js/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YannMjl/Typing-speed-tester.git"
+  },
+  "author": "Yann Mulonda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YannMjl/Typing-speed-tester/issues"
+  },
+  "homepage": "https://github.com/YannMjl/Typing-speed-tester#readme"
+}
