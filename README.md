@@ -8,7 +8,7 @@ Test how fast you can type and improve your typing speed.
 ![Detect error while typing](./img/2_result.png)
 ![Stop timer when completed](./img/3_result.png)
 
-JavaScript training course by:
+JavaScript Training Course by:
 * **[Morten Rand-Hendriksen](https://www.linkedin.com/in/mortenrandhendriksen/?trk=lil_course)**
 
 ## Author
